@@ -4,3 +4,4 @@ beautifulsoup4
 pytest
 pytest-cov
 httpx
+python-multipart
