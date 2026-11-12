@@ -1,7 +1,6 @@
 fastapi
 uvicorn
+beautifulsoup4
 pytest
 pytest-cov
-flake8
-black
 httpx
